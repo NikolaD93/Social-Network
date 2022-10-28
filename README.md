@@ -1,9 +1,11 @@
 # Made simple social network UI using Material UI 
 
+![Social-Network](https://user-images.githubusercontent.com/95870159/198585191-3fac9f39-6fcd-442f-b2f4-f07c0a8f446d.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
 
 In the project directory, you can run:
 
